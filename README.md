@@ -35,6 +35,6 @@ Sebuah program untuk membantu merekomendasikan pekerjaan IT berdasarkan dari **'
 1. Rata-rata Presisi: 86%<br>
 2. Rata-rata Recall: 76%<br>
 3. Rata-rata F1-Score: 78%<br>
-
+<br>
 <p align="justify">Kemudian, kami menganalisis matriks konfusi untuk mendapatkan wawasan lebih lanjut tentang bagaimana model berkinerja pada setiap kelas. Matriks konfusi menggambarkan seberapa baik model mengklasifikasikan instans ke dalam kelas yang benar atau salah. Dari hasil matriks konfusi, terlihat bahwa ada variasi dalam kemampuan model dalam mengklasifikasikan berbagai kelas. Kelas dengan nilai presisi, recall, dan F1-score yang lebih rendah mungkin memerlukan perhatian lebih lanjut untuk ditingkatkan kinerjanya. Secara keseluruhan, meskipun model ini memiliki akurasi yang baik pada data latih, hasil evaluasi pada data uji menunjukkan adanya potensi untuk meningkatkan kinerja model pada beberapa kelas tertentu. Kami merekomendasikan lebih lanjut untuk melakukan analisis lebih mendalam, seperti tuning parameter model atau mungkin mengumpulkan lebih banyak data, untuk meningkatkan hasil klasifikasi pada kelas yang memiliki kinerja lebih rendah.</p>
 
